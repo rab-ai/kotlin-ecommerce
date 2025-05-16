@@ -1,4 +1,4 @@
-# 🛍️ Fashion Store App
+# 🛍️ E-Commerce App
 
 A simple fashion e-commerce prototype built with Android Studio using Kotlin and Java.
 
